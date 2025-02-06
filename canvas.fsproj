@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net7.0</TargetFramework>
     <PackageId>DIKU.Canvas</PackageId>
     <Version>2.1.0-alpha1</Version>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
